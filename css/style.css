@@ -1,0 +1,16 @@
+img {
+    width: 170px;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+}
